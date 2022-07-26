@@ -1,0 +1,131 @@
+html, body{
+        padding: 0px;
+      background-image: url("images/back.gif");
+   background-color: #e3dfdf;
+
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 1em;
+		color: #FFFFFF;
+		font-weight:normal;
+}
+#fbTitle {
+
+	margin-left: auto;
+    margin-right: auto;
+	margin-top: 17px;
+	
+	text-align: center;
+	width:1200px;
+
+	background-color: #8599C2;
+
+
+}
+
+#nav{
+margin-left: auto;
+    margin-right: auto;
+
+	text-align: center;
+	width:1200px;
+background-color: #8599C2;
+font:12pt arial;
+color:#fff;
+word-spacing:10px;
+} 
+.contents a:link {color: #292b66; text-decoration: underline; }
+.contents a:active {color: #3336b6; text-decoration: underline; }
+.contents a:visited {color: #b9b9de; text-decoration: underline; }
+.contents a:hover {color: #986b88; text-decoration: none; }
+.nav a:link {color: #FFFFCC; text-decoration: underline; }
+.nav a:active {color: #CCCCCC; text-decoration: underline; }
+.nav a:visited {color: #FFCCCC; text-decoration: underline; }
+.nav a:hover {color: #986b88; text-decoration: none; }
+
+.container {
+  float: center;
+  clear: left;
+
+}
+.left 
+{
+  float: left;
+  height: 400px;
+  width:1000px;
+	text-align: left; 
+	margin-top: 140px;	 
+}
+.right 
+{
+  float: center;
+  width: 1000px;
+	text-align: left;   
+}
+
+
+
+#fbheader {
+	margin-left: auto;
+    margin-right: auto;
+
+	text-align: center;
+	width:1200px;
+background-color: #ffffff;
+font:18pt Verdana;
+color:#000000;
+}
+
+#fbcontents {
+	margin-left: auto;
+    margin-right: auto;
+
+	text-align: center;
+	width:1200px;
+background-color: #ffffff;
+font:12pt Verdana;
+color:#000000;
+
+a:link {color: #FFFFCC; text-decoration: underline; }
+a:active {color: #CCCCCC; text-decoration: underline; }
+a:visited {color: #FFCCCC; text-decoration: underline; }
+a:hover {color: #986b88; text-decoration: none; }
+
+a.altlink:link {
+	color: #FFFFCC;
+}
+
+a.altlink:visited {
+	color: #FFCCCC;
+}
+
+}
+
+
+#fbText 
+{
+	float: center;
+	text-align: left;
+	width:1000px;	
+}
+.clear{
+  clear: left;
+}
+
+
+#fbFooter {
+
+	text-align: center;
+}
+
+a:link {color: #FFFFCC; text-decoration: underline; }
+a:active {color: #CCCCCC; text-decoration: underline; }
+a:visited {color: #FFCCCC; text-decoration: underline; }
+a:hover {color: #986b88; text-decoration: none; }
+
+a.altlink:link {
+	color: #FFFFCC;
+}
+
+a.altlink:visited {
+	color: #FFCCCC;
+}
